@@ -3,7 +3,7 @@ import "./About.css";
 import Button from "../shared/Button";
 import Title from "../shared/Title";
 import { FaAward } from "react-icons/fa";
-import { FiUsers } from "react-icons/fi";
+import { FiAward, FiUserPlus } from "react-icons/fi";
 import { AiOutlineProject } from "react-icons/ai";
 
 const About = () => {
@@ -17,16 +17,15 @@ const About = () => {
         <div className="about-container">
           <div className="content-container">
             <div className="content-box">
-              <FaAward />
-              <h3>Experience</h3>
-              <p>Operation Executive in ADANI Solar.</p>
-              <p>HR Executive in IHHPET</p>
+              <FiUserPlus/>
+              <h4>Experience</h4>
+              <p>7 Months Operation Exec. 7 Months HR Exec.</p>
             </div>
 
             <div className="content-box">
-              <FiUsers />
+              <FaAward/>
               <h3>Education</h3>
-              <p>IGNOU - Bachelor of Computer Application</p>
+              <p>IGNOU - BCA</p>
             </div>
 
             <div className="content-box">
@@ -53,7 +52,8 @@ const About = () => {
             become a valuable person for the organization.
           </p>
 
-          <a href="#contact"><Button text="Let's Talk" position="left" />
+          <a href="#contact">
+            <Button text="Let's Talk" position="left" />
           </a>
         </div>
       </div>
