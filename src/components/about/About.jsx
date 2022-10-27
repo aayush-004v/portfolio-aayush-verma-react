@@ -19,8 +19,8 @@ const About = () => {
             <div className="content-box">
               <FaAward />
               <h3>Experience</h3>
-              <p>Worked as an Operation Executive in ADANI Solar.</p>
-              <p>Inter as BDA as well as an HR Executive</p>
+              <p>Operation Executive in ADANI Solar.</p>
+              <p>HR Executive in IHHPET</p>
             </div>
 
             <div className="content-box">
