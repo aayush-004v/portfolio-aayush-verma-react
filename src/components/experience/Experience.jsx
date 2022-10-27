@@ -31,27 +31,27 @@ const Experience = () => {
       ],
     },
     {
-      title: "Back-End Developer",
+      title: "Executive Management",
       items: [
         {
           id: 1,
-          title: "Node.js",
-          level: "Begineer",
+          title: "Operation Executive",
+          level: "Junior",
         },
         {
           id: 2,
-          title: "MongoDB",
-          level: "Begineer",
+          title: "BDA",
+          level: "Junior",
         },
         {
           id: 3,
-          title: "MySQL",
-          level: "Beginner",
+          title: "HR Associate",
+          level: "Junior",
         },
         {
           id: 4,
-          title: "Express",
-          level: "Beginner",
+          title: "HR Executive",
+          level: "Intermediate",
         },
       ],
     },
