@@ -18,7 +18,7 @@ const About = () => {
           <div className="content-container">
             <div className="content-box">
               <FiUserPlus/>
-              <h4>Experience</h4>
+              <h3>Experience</h3>
               <p>7 Months Operation Exec. 7 Months HR Exec.</p>
             </div>
 
