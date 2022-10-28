@@ -30,14 +30,14 @@ const Footer = () => {
         </nav>
         <div className="social-media">
           <a
-            href="https://www.instagram.com"
+            href="https://www.instagram.com/aayush_004v/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaInstagram />
           </a>
           <a
-            href="https://www.linkedin.com"
+            href="https://www.linkedin.com/in/aayush-verma-b62a0b20a/"
             target="_blank"
             rel="noopener noreferrer"
           >
